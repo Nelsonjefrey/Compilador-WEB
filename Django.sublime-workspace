@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gri",
+				"inline-grid"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"pa",
+				"palabra"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"cre",
+				"crear_matrizAdy"
+			],
+			[
+				"c",
+				"crear_matrizAdy"
+			],
+			[
+				"pos",
+				"pos"
+			],
+			[
+				"ad",
+				"and"
+			],
+			[
+				"po",
+				"pos2"
+			],
+			[
+				"s",
+				"simbolo"
+			],
+			[
+				"a",
+				"aux"
+			],
+			[
+				"al",
+				"alfabeto"
+			],
+			[
+				"sw",
+				"sw"
+			],
+			[
+				"est",
+				"est2"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"SESS",
+				"_SESSION"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"clas",
+				"class\tkeyword"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ce",
+				"cedulas"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"lo",
+				"location\t: Location Document"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inline-",
+				"inline-flex"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"background",
+				"background-origin"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ur",
+				"url\t: DOMString EventSource"
+			],
+			[
+				"sc",
+				"src\tAttr"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"an",
+				"Antanas"
+			],
+			[
+				"pe",
+				"Petro"
+			],
+			[
+				"pardo",
+				"Pardo"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"sec",
+				"section\tTag"
+			],
+			[
+				"STRO",
+				"strong"
+			],
+			[
+				"STR",
+				"strong"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"co",
+				"cont\tstatement"
+			],
+			[
+				"dic",
+				"diccionary"
+			],
+			[
+				"le",
+				"LEER"
+			],
+			[
+				"wh",
+				"WHILE"
+			],
+			[
+				"for",
+				"FOR"
+			],
+			[
+				"lis",
+				"lista\tstatement"
+			],
+			[
+				"rea",
+				"readline\tfunction"
+			],
+			[
+				"ex",
+				"expresion\tstatement"
+			],
+			[
+				"owe",
+				"overflow-wrap"
+			],
+			[
+				"bla",
+				"black"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"strong",
+				"strong\tTag"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"fe",
+				"inline-flex"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ar",
+				"archNuevo"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"section",
+				"section\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"table",
+				"table\tTag"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"inp",
+				"inputc\tinput - checkbox"
+			],
+			[
+				"tab",
+				"table\t<table>"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"head",
+				"header\t<header>"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"rel",
+				"rell"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"ip",
+				"input\tTag"
+			],
+			[
+				"boe",
+				"border-left"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"boder",
+				"border-right"
+			],
+			[
+				"R",
+				"Registraduria"
+			],
+			[
+				"t",
+				"t2"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"MAR",
+				"margin-left"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"EM",
+				"em"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"color",
+				"border-left-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"AU",
+				"autofocus\tAttr"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"dere",
+				"derecha"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 214.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Universidad/SEMESTRE6/compiladores/Jdango"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/votacion_2.0/view/css/login_styles.css",
+		"/C/xampp/htdocs/votacion_2.0/index.php",
+		"/C/Users/Usuario/Desktop/get-pip.py",
+		"/C/Users/Usuario/instaljdango/instaljdango/manage.py",
+		"/C/Users/Usuario/Dropbox/Web/Nueva carpeta/votacion_2.0/view/css/login_styles.css",
+		"/C/Users/Usuario/Dropbox/Web/Nueva carpeta/votacion_2.0/index.php",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/isPalindromo/view.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/isPalindromo/__init__.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/isPalindromo/app.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/isPalindromo/api.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/automata_impar.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/automata_par.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/crear_matrizapi.py",
+		"/C/xampp/htdocs/votacion_2.0/controller/services/crearUsuario.php",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/api.py",
+		"/C/Users/Usuario/Dropbox/Web/Nueva carpeta/votacion_2.0/view/listar_programa.php",
+		"/C/Users/Usuario/Dropbox/Web/Nueva carpeta/votacion_2.0/controller/services/crearPrograma.php",
+		"/D/Universidad/SEMESTRE6/compiladores/Taller_2Seg/app.py",
+		"/D/Universidad/SEMESTRE6/compiladores/Pila.py",
+		"/C/xampp/htdocs/votacion_2.0/view/administrador.php",
+		"/C/xampp/htdocs/votacion_2.0/view/editar.php",
+		"/C/xampp/htdocs/votacion_2.0/view/css/editar_styles.css",
+		"/C/xampp/htdocs/votacion_2.0/view/css/admin_styles.css",
+		"/C/Users/Usuario/Dropbox/Web/votacion_2.0/index.php",
+		"/C/Users/Usuario/Dropbox/Web/votacion_2.0/view/css/login_styles.css",
+		"/D/Universidad/SEMESTRE6/WEB/Proyecto_web/view/login.php",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/index.html",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/Certified.html",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/api/validar.php",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/css/CSSCertified.css",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/js/CertifiedJS.js",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/Jurado.html",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/Card.html",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/css/Jurado.css",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/css/LoginCSS.css",
+		"/C/Users/Usuario/Dropbox/Web/Targeton 2.0/Login.html",
+		"/C/Users/Usuario/Desktop/css/editor.bootstrap.css",
+		"/C/Users/Usuario/Desktop/js/editor.bootstrap.js",
+		"/D/Universidad/SEMESTRE 6/compiladores/diagramaEstados.py",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/css/candidatos.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/tarjeton.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/index.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/script/myJavaS.js",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/js/script.js",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/css/mystile.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/css/foto.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/css/candidatos.css",
+		"/C/Users/Usuario/Desktop/css/tablacss.css",
+		"/C/Users/Usuario/Desktop/tabla.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/tarjeto2.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/tarjeton.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/css/mystilo.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/css/mystilo.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/css/certificado.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Nuevo Tarjeton/css/login.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/login.html",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/css/login.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/certificado.html",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/JS/JSLogin.js",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/JS/JSCard.js",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/Card.html",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/CSS/CSSCard.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/js/myjs.js",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/Certified.html",
+		"/C/Users/Usuario/Desktop/Sneyder Bravo/Sneyder Bravo/IMG/Ordoñez-selected.jpg",
+		"/C/Users/Usuario/Desktop/v1.2 HABIB NAVARRO ACOSTA/script/script.js",
+		"/D/Universidad/SEMESTRE 6/WEB/Tarjeton HTML+CSS+JS/mystilo.css",
+		"/C/Users/Usuario/Downloads/python/lexercopia/diccionary.py",
+		"/C/Users/Usuario/Downloads/python/lexercopia/__init__.py",
+		"/C/Users/Usuario/Downloads/python/lexercopia/lexerp.py",
+		"/C/Users/Usuario/Downloads/python/lexercopia/funregulares.py",
+		"/C/Users/Usuario/Downloads/python/lexercopia/ply/lex.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/Manejador_Archivos.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/__init__.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/lexer.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/Palabras_Reservadas",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/barra.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/lexerp.py",
+		"/C/Users/Usuario/Downloads/python/archivo.py",
+		"/D/Universidad/SEMESTRE 6/compiladores/lexer/Programa_prin.py",
+		"/D/Universidad/SEMESTRE 6/WEB/Registro civil HTML TAREA/css/registro.css",
+		"/D/Universidad/SEMESTRE 6/WEB/Registro civil HTML TAREA/Registro_civilHTML",
+		"/D/Universidad/SEMESTRE 6/WEB/Registro civil HTML TAREA/css/tabla.css",
+		"/D/Universidad/SEMESTRE 6/WEB/REGISTRO CIVIL HTML/css/tablas.css",
+		"/D/Universidad/SEMESTRE 6/WEB/REGISTRO CIVIL HTML/css/micss.css",
+		"/D/Universidad/SEMESTRE 6/WEB/REGISTRO CIVIL HTML/Registrocivil",
+		"/C/Users/Usuario/Desktop/Htmal-Hv/css/hojacss.css",
+		"/C/Users/Usuario/Desktop/Htmal-Hv/hojavida.html",
+		"/C/Users/Usuario/Desktop/formatoHJhtml/hojavida.html",
+		"/C/Users/Usuario/Desktop/formatoHJhtml/css/hojacss.css",
+		"/C/Users/Usuario/Desktop/css/jodiendoCSS.css",
+		"/D/Universidad/SEMESTRE 5/WEB/enviar/index.html",
+		"/C/Users/Usuario/Documents/proyectoweb/vista1.html",
+		"/C/Users/Usuario/Desktop/JODIENDO.html",
+		"/D/Universidad/SEMESTRE 5/WEB/Practica/taller2-boostrap/index.html",
+		"/D/Universidad/SEMESTRE 5/WEB/Practica/Trabajo web/index.html",
+		"/C/Users/Usuario/Pictures/vistas/prueba.html",
+		"/C/Users/Usuario/Pictures/vistas/css/escenario.css",
+		"/C/Users/Usuario/Documents/proyectoweb/santamarta-bike-masterrr/santamarta-bike-master/src/main/webapp/WEB-INF/views/descripcion.jsp",
+		"/C/Users/Usuario/Documents/proyectoweb/santamarta-bike-masterrr/santamarta-bike-master/src/main/webapp/resources/css/escenario.css",
+		"/C/Users/Usuario/Documents/proyectoweb/santamarta-bike-masterrr/santamarta-bike-master/src/main/webapp/WEB-INF/views/localidad.jsp",
+		"/C/Users/Usuario/Documents/proyectoweb/santamarta-bike-masterrr/santamarta-bike-master/src/main/webapp/WEB-INF/views/escenario.jsp",
+		"/C/Users/Usuario/Documents/proyectoweb/css/carousel.css",
+		"/C/xampp/htdocs/demo/index.html",
+		"/D/Universidad/WEB/proyecto Vistas/home.html",
+		"/D/Universidad/WEB/proyecto Vistas/home2.html",
+		"/D/Universidad/WEB/proyecto Vistas/sasas.html",
+		"/D/Universidad/WEB/nuevo boostrap/css/stilo.css",
+		"/D/Universidad/WEB/web/web/js/scritp.js",
+		"/D/Universidad/WEB/web/web/jquery-ejemplo.html",
+		"/D/Universidad/WEB/taller2-boostrap/css/style.css",
+		"/D/Universidad/WEB/taller2-boostrap/tallerweb 4.html",
+		"/D/Universidad/WEB/web/web/css/estilos.css",
+		"/D/Universidad/WEB/taller2-boostrap/css/estilos.css",
+		"/D/Universidad/WEB/nuevo boostrap/taller3.html",
+		"/D/Universidad/WEB/nuevo boostrap/js/jquery.js",
+		"/D/Universidad/WEB/enviar2/taller2-boostrap/js/eventos.js",
+		"/D/Universidad/WEB/enviar2/taller2-boostrap/index.html",
+		"/D/Universidad/WEB/enviar2/taller2-boostrap/css/estilos.css",
+		"/D/Universidad/WEB/enviar2/taller1/css/style.css",
+		"/D/Universidad/WEB/Trabajo web/index.html",
+		"/D/Universidad/WEB/Trabajo web/js/eventos.js",
+		"/D/Universidad/WEB/Trabajo web/css/estilos.css",
+		"/D/Universidad/WEB/enviar2/taller1-boostrap/css/estilo.css",
+		"/D/Universidad/WEB/Trabajo web/css/estilo3.css",
+		"/D/Universidad/WEB/enviar2/taller1-boostrap/index.html",
+		"/D/Universidad/WEB/enviar2/taller1/workshop1.html",
+		"/D/Universidad/WEB/taller1-boostrap/css/style.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"colum",
+			"est",
+			";\n",
+			"350px",
+			"15px",
+			"380px",
+			";\n",
+			"1",
+			"{\n",
+			"modal",
+			"content",
+			"5",
+			"%;",
+			";\n",
+			"class",
+			"{\n",
+			"100px",
+			"h5",
+			"img-circle",
+			";\n",
+			"60px",
+			"=\"\">",
+			"natividad",
+			"fajardo",
+			"claral",
+			"elsa",
+			"pardo",
+			"olga",
+			"robinson",
+			"');\"></",
+			"83px",
+			" >",
+			"/p>",
+			"p",
+			"</p>",
+			"id",
+			"\t\n",
+			"h4",
+			"h2",
+			">",
+			"self",
+			"resultado_lexema",
+			"5",
+			";\n",
+			";\t",
+			"table-cell",
+			"inline-block",
+			"right",
+			"bort",
+			"bordf",
+			"colspan=\"2\"",
+			"bort",
+			"colspan",
+			"bort",
+			"tabla2",
+			"class=\"bort\"",
+			"</tr>",
+			"<tr>",
+			"</section><br",
+			"table",
+			"class=\"sinb\"",
+			"borg",
+			"class=\"bort\"",
+			"class=\"bort",
+			"c",
+			"class=\"bort\"",
+			"colspan=\"9\"",
+			"<tr>",
+			"table",
+			"td",
+			";\n",
+			"></",
+			"inscrito",
+			"1px",
+			";\n",
+			"td",
+			" />",
+			"\n\t",
+			";\n",
+			"></",
+			";\n",
+			"H2",
+			">\n",
+			"p",
+			"REUBLICA",
+			"p",
+			"<>",
+			"15px",
+			";\n",
+			"CORRESPONDENCIA",
+			">\n",
+			"seg",
+			"uno",
+			"tr",
+			"l",
+			"50px",
+			"%;",
+			">",
+			"50",
+			"brand",
+			">",
+			";\n",
+			"padding",
+			"});\n",
+			"15px",
+			"textog",
+			"textop",
+			"tbl",
+			"va",
+			"10",
+			"hover",
+			"darken",
+			"mix",
+			"mixin",
+			"color",
+			"fff",
+			"import",
+			"mixin",
+			"fff",
+			"table",
+			"warning",
+			";\n",
+			">\n",
+			"nav",
+			"{\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Django.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
